@@ -8,6 +8,7 @@ AUTHOR: Priyans Murarka
 ###How To:
 
 To use this script, you will need a tweet link. To obtain tweet link, click on the tweet you would want to follow. Click on the small option 'Details'. It will redirect you to the tweet's link. You can copy paste the address from the browser and use the same.
+Also, please pick up the 'root' tweet for best results.
 
 ###Usage:
  
