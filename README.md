@@ -1,10 +1,14 @@
 Follow-A-Tweet
 ==============
 
-This script allows you to follow particular tweets of interest.
+This script allows you to follow particular tweets of interest, even if you are not on twitter.
 
 AUTHOR: Priyans Murarka
 ======
+###How To:
+
+To use this script, you will need a tweet link. To obtain tweet link, click on the tweet you would want to follow. Click on the small option 'Details'. It will redirect you to the tweet's link. You can copy paste the address from the browser and use the same.
+
 ###Usage:
  
     $ sh follow-a-tweet.sh https://twitter.com/priyansm/status/371531619103805440 20m
