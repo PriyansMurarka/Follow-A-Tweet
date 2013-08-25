@@ -20,6 +20,7 @@ AUTHOR: Priyans Murarka
 ##TODOs:
 
 1. Add 'Original Tweet' when notifying the user about the replies to the tweets.
-2. Repair the tweet format when it contains hashtags or links.
-3. Add additional flexibilities like mailing a compiled list of responses to a particular mail address.
-4. Make it platform independent.
+2. Optimize the code.
+3. Repair the tweet format when it contains hashtags or links.
+4. Add additional flexibilities like mailing a compiled list of responses to a particular mail address.
+5. Make it platform independent.
