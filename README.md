@@ -21,3 +21,5 @@ AUTHOR: Priyans Murarka
 
 1. Add 'Original Tweet' when notifying the user about the replies to the tweets.
 2. Repair the tweet format when it contains hashtags or links.
+3. Add additional flexibilities like mailing a compiled list of responses to a particular mail address.
+4. Make it platform independent.
