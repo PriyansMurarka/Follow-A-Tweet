@@ -24,3 +24,4 @@ AUTHOR: Priyans Murarka
 3. Repair the tweet format when it contains hashtags or links.
 4. Add additional flexibilities like mailing a compiled list of responses to a particular mail address.
 5. Make it platform independent.
+6. Add the functionality to follow 'multiple' tweets.
